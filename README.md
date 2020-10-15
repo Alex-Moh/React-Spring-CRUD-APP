@@ -1,4 +1,4 @@
-# Docker Getting Started Tutorial
+# Dockerized Fullstack- React & Spring CRUD App
 
 This tutorial has been written with the intent of helping folks get up and running
 with containers and is designed to work with Docker Desktop. While not going too much 
@@ -33,10 +33,3 @@ local machine and help you see changes instantly.
 docker-compose up
 ```
 
-## Contributing
-
-If you find typos or other issues with the tutorial, feel free to create a PR and suggest fixes!
-
-If you have ideas on how to make the tutorial better or new content, please open an issue first before working on your idea. While we love input, we want to keep the tutorial is scoped to new-comers.
-As such, we may reject ideas for more advanced requests and don't want you to lose any work you might
-have done. So, ask first and we'll gladly hear your thoughts!
